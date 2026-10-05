@@ -1,0 +1,16 @@
+# Python generated files
+__pycache__/
+*.pyc
+
+# IDE files
+.vs/
+.vscode/
+
+# Face recognition cache
+encodings_cache.pkl
+
+# Local database
+attendance.db
+
+# Attendance photos
+snapshots/
